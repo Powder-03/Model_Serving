@@ -1,0 +1,4 @@
+venv/
+*.safetensors
+Day1/smollm/
+__pycache__/
